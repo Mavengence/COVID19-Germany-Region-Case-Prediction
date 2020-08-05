@@ -1,7 +1,5 @@
 <div style="background-color:white">
   <div align="center">
-    <img src="./imgs/techfak_logo.jpg" width="700" height="250">
-    <hr>
     <h1 style="color:black">Corona Fallzahl Vorhersage für die 412 Landkreise Deutschlands (Prediction for Corona Cases in every Region of Germany)<h1>
     <img src="https://www.med.fau.de/wp-content/themes/FAU-Medfak/img/logos/logo-med-240x65.gif" width="400">
   </div>
